@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBH4jpRUXVZnT1lXOayX3ak+o2rbpVduxPc+HnzOuAjOUf9Q4I+OLOoJQ+GN9UD3ZPgKM3x3RE7hd1unxebnDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiss\\Desktop\\TEST-V2\\Test-V2\\Test-V2\\Test-V2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiss\\.nuget\\packages\\libltknet-sdk\\11.4.0\\libltknet-sdk.11.4.0.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.8\\microsoft.aspnetcore.connections.abstractions.8.0.8.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.8\\microsoft.aspnetcore.signalr.common.8.0.8.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\microsoft.extensions.features\\8.0.8\\microsoft.extensions.features.8.0.8.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\octanesdk\\4.3.0\\octanesdk.4.3.0.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\swashbuckle.aspnetcore\\6.8.1\\swashbuckle.aspnetcore.6.8.1.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.8.1\\swashbuckle.aspnetcore.swagger.6.8.1.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.8.1\\swashbuckle.aspnetcore.swaggergen.6.8.1.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.8.1\\swashbuckle.aspnetcore.swaggerui.6.8.1.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
