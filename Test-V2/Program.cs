@@ -10,18 +10,18 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<ReaderService>();
 builder.Services.AddSingleton<ReaderSettings>();
 builder.Services.AddSignalR();
-
-// Configurar CORS para permitir solicitudes desde varios frontends
+// Configurar CORS
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("FrontendPolicy", policy =>
+    options.AddPolicy("AllowAll", policy =>
     {
-        policy.WithOrigins("http://localhost:3001", "http://localhost:3002") // Permitir ambos dominios
-              .AllowAnyHeader()
+        policy.AllowAnyHeader()
               .AllowAnyMethod()
-              .AllowCredentials(); // Permitir envío de cookies o credenciales
+              .SetIsOriginAllowed(origin => true)  // Permitir todas las solicitudes de origen
+              .AllowCredentials();                 // Permitir las credenciales necesarias para SignalR
     });
 });
+
 
 
 var app = builder.Build();
@@ -37,6 +37,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+// Usar CORS con la política configurada
+app.UseCors("AllowAll");
+
 
 app.UseAuthorization();
 

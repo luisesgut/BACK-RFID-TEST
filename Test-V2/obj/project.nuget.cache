@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wBH4jpRUXVZnT1lXOayX3ak+o2rbpVduxPc+HnzOuAjOUf9Q4I+OLOoJQ+GN9UD3ZPgKM3x3RE7hd1unxebnDw==",
+  "dgSpecHash": "v9yk6MUXCoQ6vZ00QEMqyMoA/4nrPIDgYPDS33QME0wj5EK3X9rBqsTWbgbkJCoi7co01kupYJ8o7li5nmVr5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luiss\\Desktop\\TEST-V2\\Test-V2\\Test-V2\\Test-V2.csproj",
+  "projectFilePath": "C:\\Users\\luiss\\Desktop\\Back-LL\\BACK-RFID-TEST\\Test-V2\\Test-V2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiss\\.nuget\\packages\\libltknet-sdk\\11.4.0\\libltknet-sdk.11.4.0.nupkg.sha512",
     "C:\\Users\\luiss\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.8\\microsoft.aspnetcore.connections.abstractions.8.0.8.nupkg.sha512",

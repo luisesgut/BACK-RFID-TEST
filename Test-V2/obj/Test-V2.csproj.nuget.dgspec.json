@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiss\\Desktop\\TEST-V2\\Test-V2\\Test-V2\\Test-V2.csproj": {}
+    "C:\\Users\\luiss\\Desktop\\Back-LL\\BACK-RFID-TEST\\Test-V2\\Test-V2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiss\\Desktop\\TEST-V2\\Test-V2\\Test-V2\\Test-V2.csproj": {
+    "C:\\Users\\luiss\\Desktop\\Back-LL\\BACK-RFID-TEST\\Test-V2\\Test-V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiss\\Desktop\\TEST-V2\\Test-V2\\Test-V2\\Test-V2.csproj",
+        "projectUniqueName": "C:\\Users\\luiss\\Desktop\\Back-LL\\BACK-RFID-TEST\\Test-V2\\Test-V2.csproj",
         "projectName": "Test-V2",
-        "projectPath": "C:\\Users\\luiss\\Desktop\\TEST-V2\\Test-V2\\Test-V2\\Test-V2.csproj",
+        "projectPath": "C:\\Users\\luiss\\Desktop\\Back-LL\\BACK-RFID-TEST\\Test-V2\\Test-V2.csproj",
         "packagesPath": "C:\\Users\\luiss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiss\\Desktop\\TEST-V2\\Test-V2\\Test-V2\\obj\\",
+        "outputPath": "C:\\Users\\luiss\\Desktop\\Back-LL\\BACK-RFID-TEST\\Test-V2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
